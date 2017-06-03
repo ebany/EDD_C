@@ -1,0 +1,6 @@
+digraph H {
+12 -> 14;
+14 -> 12 [color = red];
+14 -> 21;
+21 -> 14 [color = red];
+}

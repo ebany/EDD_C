@@ -1,0 +1,3 @@
+digraph G {63;
+63[shape=diamond];
+}

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495414885 source:/home/codigog1/Documentos/Codigo c/Lista Simple/main.c
+	<stdio.h>
+	<stdlib.h>
+
